@@ -1,0 +1,18 @@
+{
+  "homepage": "https://nirajan1023.github.io/staticapp",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  },
+  
+  "name": "name",
+  "description": "description",
+  "authors": "author",
+  "version": "1.0.0",
+  "main": "pathToMain",
+  "dependencies": {},
+
+  "scripts": {
+    "deploy":"gh -d dist"
+  }
+
+}
